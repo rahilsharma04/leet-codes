@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/rahilsharma04/leet-codes/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/rahilsharma04/leet-codes/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/rahilsharma04/leet-codes/tree/master/1137-height-checker) |
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/rahilsharma04/leet-codes/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/rahilsharma04/leet-codes/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
