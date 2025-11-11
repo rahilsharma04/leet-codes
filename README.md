@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahilsharma04/leet-codes/tree/master/0371-sum-of-two-integers) |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahilsharma04/leet-codes/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/rahilsharma04/leet-codes/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/rahilsharma04/leet-codes/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/rahilsharma04/leet-codes/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/rahilsharma04/leet-codes/tree/master/3379-score-of-a-string) |
