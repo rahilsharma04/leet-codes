@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rahilsharma04/leet-codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rahilsharma04/leet-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahilsharma04/leet-codes/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/rahilsharma04/leet-codes/tree/master/0507-perfect-number) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rahilsharma04/leet-codes/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rahilsharma04/leet-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
