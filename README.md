@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rahilsharma04/leet-codes/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/rahilsharma04/leet-codes/tree/master/0219-contains-duplicate-ii) |
 | [0782-jewels-and-stones](https://github.com/rahilsharma04/leet-codes/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/rahilsharma04/leet-codes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahilsharma04/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rahilsharma04/leet-codes/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/rahilsharma04/leet-codes/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/rahilsharma04/leet-codes/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rahilsharma04/leet-codes/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/rahilsharma04/leet-codes/tree/master/1137-height-checker) |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/rahilsharma04/leet-codes/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/rahilsharma04/leet-codes/tree/master/0110-balanced-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/rahilsharma04/leet-codes/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
