@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/rahilsharma04/leet-codes/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahilsharma04/leet-codes/tree/master/0371-sum-of-two-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/rahilsharma04/leet-codes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rahilsharma04/leet-codes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahilsharma04/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/rahilsharma04/leet-codes/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/rahilsharma04/leet-codes/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rahilsharma04/leet-codes/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/rahilsharma04/leet-codes/tree/master/1137-height-checker) |
