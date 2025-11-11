@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rahilsharma04/leet-codes/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/rahilsharma04/leet-codes/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rahilsharma04/leet-codes/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/rahilsharma04/leet-codes/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/rahilsharma04/leet-codes/tree/master/3379-score-of-a-string) |
