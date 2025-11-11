@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/rahilsharma04/leet-codes/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/rahilsharma04/leet-codes/tree/master/0782-jewels-and-stones) |
+| [3379-score-of-a-string](https://github.com/rahilsharma04/leet-codes/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
