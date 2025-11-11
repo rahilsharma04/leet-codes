@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/rahilsharma04/leet-codes/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rahilsharma04/leet-codes/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rahilsharma04/leet-codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahilsharma04/leet-codes/tree/master/0371-sum-of-two-integers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rahilsharma04/leet-codes/tree/master/0258-add-digits) |
 ## Trie
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rahilsharma04/leet-codes/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rahilsharma04/leet-codes/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
