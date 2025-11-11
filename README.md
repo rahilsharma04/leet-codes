@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/rahilsharma04/leet-codes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahilsharma04/leet-codes/tree/master/0371-sum-of-two-integers) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahilsharma04/leet-codes/tree/master/0371-sum-of-two-integers) |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rahilsharma04/leet-codes/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rahilsharma04/leet-codes/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rahilsharma04/leet-codes/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/rahilsharma04/leet-codes/tree/master/0782-jewels-and-stones) |
 | [3379-score-of-a-string](https://github.com/rahilsharma04/leet-codes/tree/master/3379-score-of-a-string) |
@@ -83,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rahilsharma04/leet-codes/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/rahilsharma04/leet-codes/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
