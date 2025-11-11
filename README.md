@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahilsharma04/leet-codes/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/rahilsharma04/leet-codes/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rahilsharma04/leet-codes/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/rahilsharma04/leet-codes/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rahilsharma04/leet-codes/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/rahilsharma04/leet-codes/tree/master/1137-height-checker) |
