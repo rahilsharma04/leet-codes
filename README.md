@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rahilsharma04/leet-codes/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/rahilsharma04/leet-codes/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rahilsharma04/leet-codes/tree/master/0371-sum-of-two-integers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rahilsharma04/leet-codes/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahilsharma04/leet-codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/rahilsharma04/leet-codes/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/rahilsharma04/leet-codes/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/rahilsharma04/leet-codes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rahilsharma04/leet-codes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahilsharma04/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
