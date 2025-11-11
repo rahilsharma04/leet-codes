@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rahilsharma04/leet-codes/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahilsharma04/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/rahilsharma04/leet-codes/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rahilsharma04/leet-codes/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/rahilsharma04/leet-codes/tree/master/1137-height-checker) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/rahilsharma04/leet-codes/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rahilsharma04/leet-codes/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rahilsharma04/leet-codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
