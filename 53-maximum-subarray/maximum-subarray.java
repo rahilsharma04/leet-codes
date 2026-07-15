@@ -1,32 +1,32 @@
+import java.util.*;
 class Solution {
     public int maxSubArray(int[] nums) {
+        int cs  = 0 ;
         int ms = Integer.MIN_VALUE;
-        int curr = 0;
-        boolean allNegative = true;
-        int largestn = Integer.MIN_VALUE;
 
-        for(int i =0; i<nums.length;i++){
-            if(nums[i] >= 0)
+        int max_element = Integer.MIN_VALUE;
+    
+        for(int i=0; i<nums.length;i++)
+        {
+            if(nums[i] > max_element)
             {
-                allNegative = false;
+                max_element = nums[i];
             }
+        }
+        if (max_element < 0)
+        {
+            return max_element;
+        }
 
-            largestn = Math.max(nums[i],largestn);
-
-            curr += nums[i];
-
-            if(curr < 0)
-                curr = 0;
-            
-            ms = Math.max(curr,ms);
-
-            if(allNegative)
+        for(int i =0; i< nums.length;i++)
+        {
+            cs += nums[i];
+            if(cs < 0)
             {
-                ms = largestn;
+                cs =0;
             }
+            ms = Math.max(cs,ms);
 
-
-            
         }
         return ms;
     }
